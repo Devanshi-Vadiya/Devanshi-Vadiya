@@ -1,0 +1,127 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#0b1320;
+    height:100vh;
+}
+
+/* GRID LAYOUT */
+
+.gallery{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-template-rows:1fr 1fr;
+    width:100%;
+    height:100vh;
+}
+
+/* TILE BASE */
+
+.tile{
+    position:relative;
+    overflow:hidden;
+    cursor:pointer;
+    display:flex;
+    align-items:flex-end;
+    padding:30px;
+    color:white;
+}
+
+/* TEXT */
+
+.tile h2{
+    position:relative;
+    z-index:3;
+    font-size:2rem;
+    font-weight:700;
+    text-shadow:0 6px 20px rgba(0,0,0,.6);
+    transition:transform .4s ease;
+}
+
+.tile:hover h2{
+    transform:translateY(-6px);
+}
+
+/* IMAGE LAYER 1 (default) */
+
+.tile::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    background-size:cover;
+    background-position:center;
+    transition:opacity .5s ease;
+    z-index:1;
+}
+
+/* IMAGE LAYER 2 (hover image) */
+
+.tile::after{
+    content:"";
+    position:absolute;
+    inset:0;
+    background-size:cover;
+    background-position:center;
+    opacity:0;
+    transition:opacity .6s ease;
+    z-index:2;
+}
+
+/* DARK OVERLAY */
+
+.tile::before{
+    filter:brightness(.7);
+}
+
+/* HOVER CHANGE ONLY THAT TILE */
+
+.tile:hover::after{
+    opacity:1;
+}
+
+/* ---------- IMAGES ---------- */
+
+/* TOP LEFT */
+
+.t1::before{
+    background-image:url("https://wallpapersafari.com/solid-dark-grey-wallpaper/");
+}
+
+.t1::after{
+    background-image:url("https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1200");
+}
+
+/* TOP RIGHT */
+
+.t2::before{
+    background-image:url("https://imgs.search.brave.com/DQd80cknEraiadIe-n-RKP81Au057LQ-oq0eU5WY1Pg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS11cy5sYW5kbWFy/a3Nob3BzLmluL2Nk/bi1jZ2kvaW1hZ2Uv/aD03MzAsdz01NDAs/cT04NSxmaXQ9Y292/ZXIvbWF4LW5ldy8x/MDAwMDEzNzA1Mzc2/LUJlaWdlLUJFSUdF/LTEwMDAwMTM3MDUz/NzZfMDgtMjEwMC5q/cGc");
+}
+
+.t2::after{
+    background-image:url("https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200");
+}
+
+/* BOTTOM LEFT */
+
+.t3::before{
+    background-image:url("https://imgs.search.brave.com/m8PSIYEMkWLrn7CyDBaIiT9vP1TxfrsNn5XOUshjFAA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9zb2xp/ZC1waW5rLWJhY2tn/cm91bmQtd2FsbC1j/bG9zZS11cC0xNjkw/MTU5MjcuanBn");
+}
+
+.t3::after{
+    background-image:url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200");
+}
+
+/* BOTTOM RIGHT */
+
+.t4::before{
+    background-image:url("https://imgs.search.brave.com/OWHjUQU_xZjHieQJb-qPPksDjunlA0rXkGxTYGzrXjE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjIy/NTUyMjY2MS9waG90/by9wdXJwbGUtY29u/Y3JldGUtd2FsbC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/X2UwZVZ6Y3plM2st/akRDYi1PdWpKaF9m/c2RtMjhnNGk2VnVE/N25mclhRYz0");
+}
+
+.t4::after{
+    background-image:url("https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200");
+}
