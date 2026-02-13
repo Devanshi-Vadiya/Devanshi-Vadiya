@@ -1,0 +1,77 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background: radial-gradient(circle at center, #0b0b0b 0%, #000 60%);
+  color:white;
+  overflow-x:hidden;
+}
+
+/* IMPORTANT: now only 1 screen height */
+.monster-section{
+  height:100vh;
+  position:relative;
+}
+
+/* pinned animation area */
+.stage{
+  position:relative;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  overflow:hidden;
+}
+
+/* Title */
+.title{
+  position:absolute;
+  top:12%;
+  text-align:center;
+  font-size:60px;
+  letter-spacing:8px;
+  color:#7CFF00;
+  opacity:0;
+  z-index:5;
+}
+
+/* CAN */
+.can{
+  position:absolute;
+  width:320px;
+  z-index:2;
+  transform:scale(0.35);
+}
+
+/* LID (hinge fixed) */
+.lid{
+  position:absolute;
+  width:320px;
+  z-index:3;
+  transform:translateY(-120px) scale(0.35);
+  transform-origin:50% 85%;
+}
+
+/* DRINK */
+.drink{
+  position:absolute;
+  width:280px;
+  opacity:0;
+  transform:translateY(120px) scale(0.5);
+  z-index:1;
+}
+
+/* neon glow */
+.stage::after{
+  content:'';
+  position:absolute;
+  width:850px;
+  height:850px;
+  background:radial-gradient(circle, rgba(0,255,70,0.25), transparent 70%);
+  filter:blur(130px);
+  z-index:0;
+}

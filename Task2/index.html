@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="APEX NEXUS - The Future of Adjustable Strength">
+    <title>APEX NEXUS | Smart Adjustable Dumbbell</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Montserrat:wght@900&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="nav-minimal">
+        <div class="container nav-content">
+            <div class="logo">APEX<span>NEXUS</span></div>
+            <div class="status-badge">RESERVATIONS OPEN</div>
+        </div>
+    </nav>
+
+    <main class="catalogue-main">
+        <!-- Section 1: Product Hero (Existing, updated semantic) -->
+        <section id="nexus" class="product-hero">
+            <div class="container hero-grid">
+                <div class="product-visualizer">
+                    <div class="main-stage">
+                        <div class="glow-backdrop"></div>
+                        <div id="productImg" class="nexus-unit" data-weight="24">
+                            <img src="https://images.unsplash.com/photo-1541534741688-6078c64b5rd7?w=800&q=80"
+                                alt="NEXUS Unit" class="active-img">
+                        </div>
+                        <div class="hotspot" style="top: 30%; left: 70%;" data-info="OLED Digital Display"></div>
+                        <div class="hotspot" style="top: 60%; left: 30%;" data-info="Mag-Safe Locking System"></div>
+                    </div>
+                </div>
+
+                <div class="product-info">
+                    <span class="product-tag reveal">EQUIPMENT // 001</span>
+                    <h1 class="product-title reveal">NEXUS<span>1000</span></h1>
+                    <p class="product-desc reveal">
+                        The world's first AI-integrated adjustable dumbbell.
+                        Instant weight shift. Digital precision. Zero friction.
+                    </p>
+
+                    <div class="weight-selector-wrap reveal">
+                        <div class="selector-header">
+                            <span>SELECT LOAD</span>
+                            <span id="currentWeightDisplay" class="value">24 KG</span>
+                        </div>
+                        <div class="weight-controls">
+                            <button class="weight-btn" data-weight="2">2</button>
+                            <button class="weight-btn" data-weight="10">10</button>
+                            <button class="weight-btn" data-weight="18">18</button>
+                            <button class="weight-btn active" data-weight="24">24</button>
+                            <button class="weight-btn" data-weight="32">32</button>
+                        </div>
+                    </div>
+
+                    <div class="specs-mini reveal">
+                        <div class="spec-row">
+                            <span class="label">SPEED</span>
+                            <span class="data">0.4 SEC SHIFT</span>
+                        </div>
+                        <div class="spec-row">
+                            <span class="label">CONNECT</span>
+                            <span class="data">BT 5.2 / APEX APP</span>
+                        </div>
+                    </div>
+
+                    <a href="#join" class="reserve-btn reveal">RESERVE UNIT <span class="price">— $499</span></a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: Internal Anatomy (NEW) -->
+        <section id="anatomy" class="section-anatomy">
+            <div class="container">
+                <div class="text-center reveal">
+                    <span class="product-tag">ANATOMY // 002</span>
+                    <h2 class="section-title-large">EXPLODED<span>VIEW</span></h2>
+                </div>
+                <div class="anatomy-visualizer">
+                    <div class="exploded-img-wrap">
+                        <img src="https://images.unsplash.com/photo-1599058917232-d750c1859d7c?w=1200&q=80"
+                            alt="Internal Anatomy" class="anatomy-base reveal">
+                        <div class="layer layer-1 reveal" data-speed="0.2">Core Sensor Unit</div>
+                        <div class="layer layer-2 reveal" data-speed="0.5">Titanium Plate System</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: Ecosystem (NEW) -->
+        <section id="ecosystem" class="section-ecosystem">
+            <div class="container ecosystem-grid">
+                <div class="hub-text reveal">
+                    <span class="product-tag">ECOSYSTEM // 003</span>
+                    <h2 class="section-title-large">APEX<span>HUB</span></h2>
+                    <p class="desc">The central nervous system of your training. Sync your NEXUS hardware with real-time
+                        AI coaching, heatmaps, and competitive leaderboards.</p>
+                    <ul class="feature-list">
+                        <li>AI Rep Counting</li>
+                        <li>Velocity Monitoring</li>
+                        <li>Automated Progressive Overload</li>
+                    </ul>
+                </div>
+                <div class="hub-visual reveal">
+                    <div class="app-mockup-wrap">
+                        <img src="https://images.unsplash.com/photo-1510511459019-5dee9954ff92?w=800&q=80"
+                            alt="APEX HUB App" class="app-screen">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 4: Technical Excellence Grid (Existing, styled) -->
+        <section class="specs-grid">
+            <div class="container">
+                <div class="grid-layout">
+                    <div class="spec-block reveal">
+                        <div class="num">01</div>
+                        <h3>Digital Core</h3>
+                        <p>Embedded sensors track reps, tempo, and total volume with 99.8% precision.</p>
+                    </div>
+                    <div class="spec-block reveal">
+                        <div class="num">02</div>
+                        <h3>Silent Shift</h3>
+                        <p>Internal electromagnetic motor replaces mechanical pins for near-silent weight adjustment.
+                        </p>
+                    </div>
+                    <div class="spec-block reveal">
+                        <div class="num">03</div>
+                        <h3>Aerospace Build</h3>
+                        <p>Grade 5 Titanium core handles high-drop impact while maintaining internal circuitry
+                            integrity.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 5: The Bench (NEW Highlight) -->
+        <section id="bench" class="section-bench">
+            <div class="container">
+                <div class="bench-hero-wrap">
+                    <div class="bench-info reveal">
+                        <span class="product-tag">COMPANION // 012</span>
+                        <h2 class="section-title-large">NEXUS<span>BENCH</span></h2>
+                        <p class="desc">Integrated sensors and tilt detection sync with your hardware to automatically
+                            adjust weight based on angle and exercise type.</p>
+                        <a href="#" class="secondary-cta">LEARN MORE</a>
+                    </div>
+                    <div class="bench-visual reveal">
+                        <img src="https://images.unsplash.com/photo-1594737625785-a496f5e95f1f?w=1000&q=80"
+                            alt="NEXUS Bench">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="custom-cursor" id="cursor"></div>
+    <div class="scroll-status" id="scrollStatus">0%</div>
+
+    <!-- Information Overlay -->
+    <div id="infoOverlay" class="info-overlay">
+        <div class="overlay-content">
+            <h4 id="overlayTitle"></h4>
+            <p id="overlayText">Details about the nanotechnology and precision engineering inside the APEX unit.</p>
+            <button id="closeOverlay">CLOSE</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
