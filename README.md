@@ -18,13 +18,6 @@ A passionate Full Stack Developer focused on building responsive web application
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
 </p>
 
-## 🎨 UI / UX Design
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
-
-UI Design • UX Principles • Responsive Design
-
 ## ⚙️ Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
@@ -41,6 +34,14 @@ UI Design • UX Principles • Responsive Design
 </p>
 
 Deployment Platforms: Render • Netlify • Vercel
+
+
+## 🎨 UI / UX Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+UI Design • UX Principles • Responsive Design
 
 ---
 
