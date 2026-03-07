@@ -1,5 +1,5 @@
 <!-- Animated Intro -->
-<h1 align="center">Hi 👋, I'm Devanshi</h1>
+<h1 align="center">Hey, I'm Devanshi</h1>
 
 <p align="center">
 A passionate Full Stack Developer focused on building responsive web applications and intuitive user experiences.
@@ -51,30 +51,10 @@ Deployment Platforms: Render • Netlify • Vercel
 A responsive frontend clone of the Bombay Closet Cleanse fashion resale platform built for learning modern UI development.
 
 🔗 Live Demo  
-https://yourproject.onrender.com
+https://bombayclosetcleanse.netlify.app/
 
 💻 GitHub Repository  
-https://github.com/yourusername/project-name
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight"/>
-</p>
+https://github.com/Devanshi-Vadiya/website6
 
 ---
 
