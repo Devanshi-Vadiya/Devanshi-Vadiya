@@ -1,75 +1,91 @@
-<h1 align="center">Hi 👋 I'm Devanshi</h1>
+<!-- Animated Intro -->
+<h1 align="center">Hi 👋, I'm Devanshi</h1>
 
 <p align="center">
-Full Stack Developer • React Developer • UI/UX Designer
+A passionate Full Stack Developer focused on building responsive web applications and intuitive user experiences.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🌐 Portfolio
+# 🚀 Skills & Technologies
 
-🔗 Portfolio Website  
-https://your-portfolio.onrender.com
+## 🌐 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
+</p>
 
----
+## 🎨 UI / UX Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
-## 💻 Tech Stack
+UI Design • UX Principles • Responsive Design
 
-**Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
+## ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
 
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
+## 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js"/>
+</p>
 
-**Programming Languages**
-- C
-- C++
-- JavaScript
+## 🛠 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vercel"/>
+</p>
 
-**Tools**
-- Git
-- GitHub
-- Postman
-- Netlify
-- Render
-- Vercel
-
-**Design**
-- UI/UX
-- Figma
+Deployment Platforms: Render • Netlify • Vercel
 
 ---
 
-## 🚀 Featured Project
+# 📂 Featured Project
 
 ### Bombay Closet Cleanse Clone
 
-Frontend clone of a fashion resale platform built for practicing responsive UI design.
+A responsive frontend clone of the Bombay Closet Cleanse fashion resale platform built for learning modern UI development.
 
-Live Demo  
+🔗 Live Demo  
 https://yourproject.onrender.com
 
-GitHub Repository  
-https://github.com/YOURUSERNAME/project-name
+💻 GitHub Repository  
+https://github.com/yourusername/project-name
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Devanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
-LinkedIn  
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
 https://www.linkedin.com/in/devanshi-vadiya-66364b397/
 
-Email  
+📧 Email  
 devanshi.vadiya.cg@gmail.com
+
+---
+
+⭐ Always learning new technologies and building exciting projects.
