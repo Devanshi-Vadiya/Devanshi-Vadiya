@@ -68,7 +68,7 @@ https://www.linkedin.com/in/devanshi-vadiya-66364b397/
 <img src="https://skillicons.dev/icons?i=gmail"/> 
 devanshi.vadiya.cg@gmail.com
 
-<img src="https://imgs.search.brave.com/nKU1krGTfShrAIGvJWcQI9d0bKLK5dMNPzw-zS0xD0U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNTQ1OTIv/eW91dHViZS1pY29u/LnN2Zw"/>
+<img src="https://imgs.search.brave.com/nKU1krGTfShrAIGvJWcQI9d0bKLK5dMNPzw-zS0xD0U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNTQ1OTIv/eW91dHViZS1pY29u/LnN2Zw width="600px""/>
 https://www.youtube.com/@DevanshiVadiya.18
 
 
