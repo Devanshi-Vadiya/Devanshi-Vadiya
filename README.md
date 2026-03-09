@@ -80,8 +80,8 @@ https://github.com/yourusername/project-name
 
 # 🌐 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=linkedin"/>### LinkedIn  
-https://www.linkedin.com/in/devanshi-vadiya-66364b397/
+### LinkedIn  
+<img src="https://skillicons.dev/icons?i=linkedin"/> https://www.linkedin.com/in/devanshi-vadiya-66364b397/
 
 <img src="https://skillicons.dev/icons?i=gmail"/> Email  
 devanshi.vadiya.cg@gmail.com
