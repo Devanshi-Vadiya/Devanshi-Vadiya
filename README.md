@@ -58,25 +58,7 @@ https://github.com/yourusername/project-name
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -86,7 +68,7 @@ https://www.linkedin.com/in/devanshi-vadiya-66364b397/
 <img src="https://skillicons.dev/icons?i=gmail"/> 
 devanshi.vadiya.cg@gmail.com
 
-<img src="https://skillicons.dev/icons?i=youtube"/>
+<img src="https://imgs.search.brave.com/nKU1krGTfShrAIGvJWcQI9d0bKLK5dMNPzw-zS0xD0U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNTQ1OTIv/eW91dHViZS1pY29u/LnN2Zw"/>
 https://www.youtube.com/@DevanshiVadiya.18
 
 
