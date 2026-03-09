@@ -1,73 +1,75 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Devanshi</h1>
 
 <p align="center">
 Full Stack Developer • React Developer • UI/UX Designer
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;UI%2FUX+Designer;Building+Modern+Web+Apps&center=true&width=500&height=50">
-</p>
+---
+
+## 🌐 Portfolio
+
+🔗 Portfolio Website  
+https://your-portfolio.onrender.com
 
 ---
 
-# 🌐 Portfolio
+## 💻 Tech Stack
 
-<p align="center">
-<a href="https://your-portfolio.onrender.com">
-<img src="https://img.shields.io/badge/View%20My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-</p>
+**Frontend**
+- React
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
 
----
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
 
-# 🛠 Tech Stack
+**Programming Languages**
+- C
+- C++
+- JavaScript
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
-</p>
+**Tools**
+- Git
+- GitHub
+- Postman
+- Netlify
+- Render
+- Vercel
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js"/>
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vercel"/>
-</p>
-
-### UI / UX
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
+**Design**
+- UI/UX
+- Figma
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Project
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-</p>
+### Bombay Closet Cleanse Clone
+
+Frontend clone of a fashion resale platform built for practicing responsive UI design.
+
+Live Demo  
+https://yourproject.onrender.com
+
+GitHub Repository  
+https://github.com/YOURUSERNAME/project-name
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p align="center">
+![Devanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
-<a href="https://www.linkedin.com/in/devanshi-vadiya-66364b397/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+---
 
-<a href="mailto:devanshi.vadiya.cg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-</a>
+## 🌐 Connect With Me
 
-</p>
+LinkedIn  
+https://www.linkedin.com/in/devanshi-vadiya-66364b397/
+
+Email  
+devanshi.vadiya.cg@gmail.com
