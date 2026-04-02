@@ -1,50 +1,45 @@
 <div align="center">
 
-<!-- ══════════════ ANIMATED HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,50:2575fc,100:00d2ff&height=240&section=header&text=Devanshi%20Vadiya&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=74&descSize=18&descColor=c3f0ff" />
+<!-- ══════════════ ANIMATED VENOM HEADER ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=280&section=header&text=Devanshi%20Vadiya&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descSize=19&descColor=a78bfa&stroke=6d28d9&strokeWidth=2" />
 
-<br/>
+<!-- PROFILE VIEWS + FOLLOWERS LIVE BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Devanshi-Vadiya&label=Profile%20Views&color=6d28d9&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Devanshi-Vadiya?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Devanshi-Vadiya?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=a855f7&logo=github" />
+
+<br/><br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&width=720&height=65&lines=Hey+There!+I'm+Devanshi+Vadiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let%27s+Build+Something+Great!+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hey+There!+I'm+Devanshi+Vadiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Next.js+%7C+TypeScript+%7C+REST+APIs+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/Open%20to%20Work-✅ Yes-00c853?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Open%20To%20Work-✅-00c853?style=for-the-badge&labelColor=0d0d0d&logo=checkmarx&logoColor=00c853" />
 &nbsp;
-<img src="https://img.shields.io/badge/Location-India 🇮🇳-ff6b6b?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Location-India%20🇮🇳-ff6b6b?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Full%20Stack-f7971e?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Stack-MERN-6d28d9?style=for-the-badge&labelColor=0d0d0d&logo=react&logoColor=61DAFB" />
 &nbsp;
-<img src="https://img.shields.io/badge/Stack-MERN-6a11cb?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Available-Freelance-f59e0b?style=for-the-badge&labelColor=0d0d0d" />
 
 <br/><br/>
 
-<!-- CLICKABLE SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/devanshi-vadiya-66364b397/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<!-- SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/devanshi-vadiya-66364b397/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://x.com/DevanshiVadiya" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+<a href="https://x.com/DevanshiVadiya" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.youtube.com/@DevanshiVadiya.18" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://www.youtube.com/@DevanshiVadiya.18" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 &nbsp;
-<a href="https://leetcode.com/u/z2Te6srJpR/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<a href="https://leetcode.com/u/z2Te6srJpR/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 &nbsp;
-<a href="https://github.com/Devanshi-Vadiya" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/Devanshi-Vadiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:devanshi.vadiya.cg@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:devanshi.vadiya.cg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -52,159 +47,123 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-  **Hi! I'm Devanshi Vadiya** — a passionate Full Stack Developer from 🇮🇳 India.
+```yaml
+name       : Devanshi Vadiya
+located_in : India 🇮🇳
+current    : Full Stack MERN Developer
+education  : Computer Science Graduate
 
-  I build **modern, performant, and scalable** web applications using the MERN stack —
-  crafting pixel-perfect UIs with React and architecting robust backends with Node.js & MongoDB.
+passion    :
+  - Building scalable full-stack apps
+  - Open Source contributions
+  - Clean code & great UX
+  - Always be learning
 
-  > *"Great software lives at the intersection of clean code, solid architecture, and great user experience."*
+currently_learning:
+  - Next.js 14 & Server Components
+  - Advanced System Design
+  - Microservices Architecture
+  - TypeScript deep-dive
 
-</div>
-
-<br/>
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🔭 **Building** | Full-Stack MERN apps & production-grade REST APIs |
-| 🌱 **Learning** | Next.js 14, Advanced React & System Design |
-| 🤝 **Collaborating** | Open Source MERN & community web projects |
-| 💡 **Exploring** | Backend Architecture & Microservices |
-| 💬 **Ask Me About** | React · Node.js · Express · MongoDB · REST APIs |
-| 📬 **Reach Me** | devanshi.vadiya.cg@gmail.com |
-| ⚡ **Fun Fact** | I turn ☕ coffee into clean code — one `console.log` at a time 😄 |
-
-</div>
-
----
-
-## 🌈 Tech Stack & Tools
-
-<div align="center">
-
-### 🟡 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🔵 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🟢 Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### 🟠 Cloud & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 🚀 What I Bring to the Table
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🎨  Frontend Magic       →   React · Next.js · Tailwind       ║
-║   ⚙️  Backend Power        →   Node.js · Express · REST APIs    ║
-║   🗄️  Data Mastery         →   MongoDB · MySQL · Firebase       ║
-║   ☁️  Cloud Ready          →   AWS · Google Cloud · Docker      ║
-║   🔧  Dev Tooling          →   Git · Postman · Figma · VSCode   ║
-║   📱  Mobile Ready         →   React Native                     ║
-║   🔐  Auth & Security      →   JWT · OAuth · Firebase Auth      ║
-║   🌐  API Design           →   REST · JSON · CRUD Architecture  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+fun_fact   : I turn ☕ into clean code — one
+             console.log() at a time 😄
 ```
 
-</div>
+<br clear="right"/>
 
 ---
 
-## 💡 What I'm Great At
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-| 🏆 Strength | 💬 Description |
-|:------------|:---------------|
-| 🧠 **Problem Solving** | Breaking complex problems into clean, scalable solutions |
-| 🎨 **UI/UX Thinking** | Building interfaces that are both beautiful and intuitive |
-| ⚡ **API Development** | Designing fast, secure & well-structured REST APIs |
-| 🗄️ **Database Design** | Structuring efficient schemas in MongoDB & MySQL |
-| 🔄 **Full-Stack Flow** | Seamlessly connecting frontend & backend end-to-end |
-| 🤝 **Team Collaboration** | Writing clean, documented code others love to work with |
-| 📦 **Shipping Products** | Taking ideas from zero → deployed, production-ready apps |
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark&perline=8" />
+</p>
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,angular,vite&theme=dark&perline=8" />
+</p>
+
+### 🟢 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,redis&theme=dark&perline=8" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,figma,postman,vscode&theme=dark&perline=8" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics — Live & Real-Time
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshi-Vadiya&theme=tokyo-night&hide_border=true&area=true&area_color=6a11cb&line=00d2ff&point=ffffff&color=c9d1d9" />
+
+<!-- ROW 1: Main Stats + Streak -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devanshi-Vadiya&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=12" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Devanshi-Vadiya&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&border_radius=12&dates=8b949e" />
+
+<br/><br/>
+
+<!-- ROW 2: Top Languages + Trophies -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-Vadiya&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&border_radius=12&exclude_repo=github-readme-stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-Vadiya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=12&border_radius=12&exclude_repo=github-readme-stats" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies — Auto Updated
+
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Devanshi-Vadiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</div>
+
+---
+
+## 📈 Contribution Activity Graph — Real Time
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshi-Vadiya&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=c4b5fd&color=e2d9f3&bg_color=0d1117&custom_title=Devanshi's%20Contribution%20Activity%20Graph&radius=12" />
+</div>
+
+---
+
+## 🐍 Contribution Snake — Live Feed
+
+> 🔄 Auto-regenerates every 12 hours via GitHub Actions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devanshi-Vadiya/Devanshi-Vadiya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Devanshi-Vadiya/Devanshi-Vadiya/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devanshi-Vadiya/Devanshi-Vadiya/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Devanshi-Vadiya/Devanshi-Vadiya/output/github-snake-dark.svg" width="96%" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Devanshi-Vadiya/Devanshi-Vadiya/output/github-snake-dark.svg" width="98%" />
   </picture>
 </div>
 
 ---
 
-## 🚀 What I'm Focused On
+## 📅 Contribution Calendar
+
+<div align="center">
+  <img width="98%" src="https://ghchart.rshah.org/6d28d9/Devanshi-Vadiya" alt="Devanshi's GitHub Contribution Chart" />
+</div>
+
+---
+
+## 🚀 Pinned Projects Showcase
 
 <div align="center">
 
-| 🔮 Area | 📌 Details |
-|:--------|:-----------|
-| 🔭 **Building** | Full-Stack MERN apps, production REST APIs & scalable platforms |
-| 🌱 **Learning** | Next.js 14, Advanced React Patterns & System Design |
-| 👯 **Collaborating** | Open Source MERN projects & GitHub community tools |
-| 🤝 **Exploring** | Microservices, Backend Architecture & Cloud Deployment |
-| 🎯 **Goal** | Build impactful, scalable & user-centric web applications |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devanshi-Vadiya&repo=Devanshi-Vadiya&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=12)](https://github.com/Devanshi-Vadiya/Devanshi-Vadiya)
 
 </div>
 
@@ -213,7 +172,32 @@
 ## 💬 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
+</div>
+
+---
+
+## 🌈 What I Bring to the Table
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  🎨  Frontend Magic     →  React · Next.js · Tailwind · Redux          ║
+║  ⚙️  Backend Power      →  Node.js · Express · REST APIs · GraphQL     ║
+║  🗄️  Data Mastery       →  MongoDB · MySQL · Firebase · Redis          ║
+║  ☁️  Cloud & DevOps     →  AWS · GCP · Docker · CI/CD Pipelines        ║
+║  🔧  Dev Tooling        →  Git · Postman · Figma · VSCode · Webpack    ║
+║  📱  Mobile Ready       →  React Native · Responsive Design            ║
+║  🔐  Auth & Security    →  JWT · OAuth2 · Firebase Auth · bcrypt       ║
+║  🌐  API Design         →  REST · JSON · CRUD · MVC Architecture       ║
+║  ⚡  Performance        →  Code Splitting · Lazy Loading · Caching     ║
+║  🤝  Team Skills        →  Agile · Git Flow · Code Review · Docs       ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
@@ -222,44 +206,33 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/devanshi-vadiya-66364b397/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/devanshi-vadiya-66364b397/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://x.com/DevanshiVadiya" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+<a href="https://x.com/DevanshiVadiya" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.youtube.com/@DevanshiVadiya.18" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://www.youtube.com/@DevanshiVadiya.18" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 &nbsp;
-<a href="https://leetcode.com/u/z2Te6srJpR/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<a href="https://leetcode.com/u/z2Te6srJpR/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 &nbsp;
-<a href="https://github.com/Devanshi-Vadiya" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/Devanshi-Vadiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:devanshi.vadiya.cg@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:devanshi.vadiya.cg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💼 Open to Collaborations-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼%20Open%20to%20Collaborations-6d28d9?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/🚀 Available for Freelance-2575fc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20Available%20for%20Freelance-7c3aed?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/❤️ Loves Open Source-00d2ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/❤️%20Loves%20Open%20Source-a855f7?style=for-the-badge" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d2ff&height=130&section=footer&animation=fadeIn" />
-  <p><em>⭐ If you found my profile useful, please star my repos — it really means a lot!<br/>
-  Made with ❤️ and lots of ☕ by <a href="https://github.com/Devanshi-Vadiya"><strong>Devanshi Vadiya</strong></a></em></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:a78bfa&height=140&section=footer&animation=twinkling&fontColor=FFFFFF" />
+  <br/>
+  <p><em>⭐ If my profile inspired you, please star my repos — it truly means the world!<br/>
+  Crafted with ❤️, lots of ☕, and endless <code>git push</code>es by <a href="https://github.com/Devanshi-Vadiya"><strong>Devanshi Vadiya</strong></a></em></p>
 </div>
