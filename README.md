@@ -105,19 +105,7 @@
 
 ---
 
-## 📈 Classic GitHub Stats — Live
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devanshi-Vadiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=c9d1d9&border_radius=12" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Devanshi-Vadiya&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&border_radius=12&dates=8b949e" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-Vadiya&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8&border_radius=12" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-Vadiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=10&border_radius=12" />
-
-</div>
 ---
 
 ## 📈 Contribution Activity Graph — Real Time
