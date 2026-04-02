@@ -29,18 +29,6 @@
 <br/><br/>
 
 <!-- SOCIAL LINKS -->
-<a href="https://www.linkedin.com/in/devanshi-vadiya-66364b397/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://x.com/DevanshiVadiya" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.youtube.com/@DevanshiVadiya.18" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/z2Te6srJpR/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-&nbsp;
-<a href="https://github.com/Devanshi-Vadiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:devanshi.vadiya.cg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 </div>
 
 ---
@@ -116,15 +104,6 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-Vadiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=10&border_radius=12" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies — Auto Updated
-
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Devanshi-Vadiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-</div>
-
 ---
 
 ## 📈 Contribution Activity Graph — Real Time
