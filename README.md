@@ -91,11 +91,19 @@
 <div align="center">
 
 <!-- ROW 1: Stats + Streak -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParthKaretiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=0891b2&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=ParthKaretiya&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=0891b2&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devanshi-Vadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=0891b2&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Devanshi-Vadiya&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=0891b2&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br/><br/>
 
+<!-- ROW 2: Top Languages + Activity Graph -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-Vadiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshi-Vadiya&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=0891b2&area=true&hide_border=true" />
+
+<br/><br/>
+
+<!-- ROW 3: Trophies -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Devanshi-Vadiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 
 
 <!-- ROW 1: Profile Details + Productive Time (commits per hour) -->
