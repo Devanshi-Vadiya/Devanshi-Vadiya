@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- ROW 1: Stats + Streak -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devanshi-Vadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=0891b2&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+
 <img width="49%" src="https://streak-stats.demolab.com?user=Devanshi-Vadiya&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=0891b2&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br/><br/>
