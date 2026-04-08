@@ -96,16 +96,6 @@
 
 <br/><br/>
 
-<!-- ROW 2: Top Languages + Activity Graph -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-Vadiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshi-Vadiya&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=0891b2&area=true&hide_border=true" />
-
-<br/><br/>
-
-<!-- ROW 3: Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Devanshi-Vadiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-
 <!-- ROW 1: Profile Details + Productive Time (commits per hour) -->
 <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshi-Vadiya&theme=tokyonight" />
 <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshi-Vadiya&theme=tokyonight&utcOffset=5.5" />
