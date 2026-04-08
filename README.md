@@ -96,31 +96,7 @@
 
 <br/><br/>
 
-<!-- ROW 2: Profile Details + Productive Time -->
-<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthKaretiya&theme=tokyonight" />
-<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthKaretiya&theme=tokyonight&utcOffset=5.5" />
 
-<br/><br/>
-
-<!-- ROW 3: Stats + Languages by Repo + Languages by Commit -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthKaretiya&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthKaretiya&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthKaretiya&theme=tokyonight" />
-
-<br/><br/>
-
-<!-- ROW 4: Top Languages donut + compact -->
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" />
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=10" />
-
-<br/><br/>
-
-<!-- ROW 5: Trophies -->
-
-
-## 📊 GitHub Stats Dashboard — Live & Real-Time
-
-<div align="center">
 
 <!-- ROW 1: Profile Details + Productive Time (commits per hour) -->
 <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshi-Vadiya&theme=tokyonight" />
