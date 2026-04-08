@@ -86,6 +86,38 @@
 
 ---
 
+## 📊 GitHub Stats Dashboard
+
+<div align="center">
+
+<!-- ROW 1: Stats + Streak -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParthKaretiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=0891b2&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ParthKaretiya&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=0891b2&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<br/><br/>
+
+<!-- ROW 2: Profile Details + Productive Time -->
+<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthKaretiya&theme=tokyonight" />
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthKaretiya&theme=tokyonight&utcOffset=5.5" />
+
+<br/><br/>
+
+<!-- ROW 3: Stats + Languages by Repo + Languages by Commit -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthKaretiya&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthKaretiya&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthKaretiya&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- ROW 4: Top Languages donut + compact -->
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" />
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKaretiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=10" />
+
+<br/><br/>
+
+<!-- ROW 5: Trophies -->
+
+
 ## 📊 GitHub Stats Dashboard — Live & Real-Time
 
 <div align="center">
