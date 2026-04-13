@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- ══════════════ ANIMATED HEADER — no stroke border ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020d1a,40:0c2d48,70:0a3d5c,100:020d1a&height=280&section=header&text=Devanshi%20Vadiya&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descSize=19&descColor=22d3ee" />
+<!-- ══════════════ ANIMATED HEADER — theme-adaptive ══════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:dbeafe,40:bfdbfe,70:93c5fd,100:dbeafe&height=280&section=header&text=Devanshi%20Vadiya&fontSize=82&fontColor=0c2d48&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descSize=19&descColor=0369a1" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=venom&color=0:020d1a,40:0c2d48,70:0a3d5c,100:020d1a&height=280&section=header&text=Devanshi%20Vadiya&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descSize=19&descColor=22d3ee" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020d1a,40:0c2d48,70:0a3d5c,100:020d1a&height=280&section=header&text=Devanshi%20Vadiya&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descSize=19&descColor=22d3ee" />
+</picture>
 
 <!-- LIVE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Devanshi-Vadiya&label=Profile%20Views&color=0891b2&style=for-the-badge" />
@@ -12,8 +16,12 @@
 
 <br/><br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=60&lines=Hey+There!+I'm+Devanshi+Vadiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Next.js+%7C+TypeScript+%7C+REST+APIs+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%A4%9D" alt="Typing SVG" />
+<!-- TYPING ANIMATION — theme-adaptive -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=0369A1&center=true&vCenter=true&width=750&height=60&lines=Hey+There!+I'm+Devanshi+Vadiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Next.js+%7C+TypeScript+%7C+REST+APIs+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%A4%9D" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=60&lines=Hey+There!+I'm+Devanshi+Vadiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Next.js+%7C+TypeScript+%7C+REST+APIs+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%A4%9D" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=60&lines=Hey+There!+I'm+Devanshi+Vadiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Next.js+%7C+TypeScript+%7C+REST+APIs+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%A4%9D" alt="Typing SVG" />
+</picture>
 
 <br/><br/>
 
@@ -50,15 +58,15 @@
 
 <!-- SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/devanshi-vadiya-66364b397/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
+ 
 <a href="https://x.com/DevanshiVadiya" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
- 
+ 
 <a href="https://www.youtube.com/@DevanshiVadiya.18" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
- 
+ 
 <a href="https://leetcode.com/u/z2Te6srJpR/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
- 
+ 
 <a href="https://github.com/Devanshi-Vadiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
- 
+ 
 <a href="mailto:devanshi.vadiya.cg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
@@ -68,7 +76,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+<div align="left">
 
 ### 💻 Languages
 <p><img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark&perline=8" /></p>
