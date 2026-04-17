@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ══════════════ ANIMATED HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020d1a,40:0c2d48,70:0a3d5c,100:020d1a&height=280&section=header&text=Devanshi%20Vadiya&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descSize=19&descColor=22d3ee&stroke=22d3ee&strokeWidth=1" />
+<!-- ══════════════ ANIMATED HEADER — bg_color forces dark background on all themes ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020d1a,40:0c2d48,70:0a3d5c,100:020d1a&height=280&section=header&text=Devanshi%20Vadiya&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=70&descSize=19&descColor=22d3ee&bg_color=0D1117" />
 
 <!-- LIVE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Devanshi-Vadiya&label=Profile%20Views&color=0891b2&style=for-the-badge" />
