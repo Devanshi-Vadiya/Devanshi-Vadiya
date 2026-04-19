@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<!-- TYPING ANIMATION — bg_color ensures visibility on both light and dark themes -->
+<!-- TYPING ANIMATION — bg_color ensures visibility on both light and dark  -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=60&bg_color=0D1117&lines=Hey+There!+I'm+Devanshi+Vadiya+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+Expert+%F0%9F%94%A5;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Next.js+%7C+TypeScript+%7C+REST+APIs+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/><br/>
