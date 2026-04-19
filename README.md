@@ -44,7 +44,7 @@
 - 💬 **Ask Me About** — React · Node.js · Express · MongoDB · APIs
 - 📦 **Shipping** — Taking ideas from zero to deployed, production-ready apps
 - 🔐 **Auth & Security** — JWT · OAuth2 · Firebase Auth · bcrypt
-- ⚡ **Fun Fact** — I turn ☕ into clean code, one `console.log()` at a time 😄
+- ⚡ **Fun Fact** — I turn ☕ into clean code, one `console.log()` at a time 😁
 - 📬 **Reach Me** — devanshi.vadiya.cg@gmail.com
 
 <div align="center">
